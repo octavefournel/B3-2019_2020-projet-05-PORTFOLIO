@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash|Calistoga|Crete+Round|Great+Vibes|Luckiest+Guy|Righteous&display=swap');
+
+body {
+font-family:'Berkshire Swash'
+;
+}
+
+h1{
+
+  color: #7300ff;
+  font-size:3em;
+  margin-bottom: 1em;
+    font-family:'Berkshire Swash'
+}
+
+h2{
+
+  font-size:2em;
+  margin-bottom: 1em;
+  font-family:'Berkshire Swash'
+}
